@@ -1,8 +1,1 @@
-
-
-
-
-
-
-
-\hurtgjhbnkmtfh# Rss
+print("hello")
